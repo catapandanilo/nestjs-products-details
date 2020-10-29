@@ -1,0 +1,7 @@
+db:
+  host: 'localhost'
+  username: 'postgres'
+  password: 'admin'
+
+jwt:
+  secret: 'catapan-secret-prd'
